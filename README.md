@@ -21,15 +21,16 @@ I'm Məhəmməd! I am improving myself on projects related to web
     <img src="https://camo.githubusercontent.com/aa2f0313689a7a182ce1284d3e410683f69a38696a0c14194a2dc051806ef0c2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e3f757365726e616d653d66617469686b6179616e3230267265706f3d43617252656e742673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Maqammed&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight" style="max-width:100%;">
   </a>
 
+-🌱 I’m currently learning.. 
+
+-📫 How to reach me: meherremlimehemmed.contact@gmail.com 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=Maqammed&amp;hide=python&amp;layout=compact&amp;show_icons=true&amp;theme=tokyonight
 <!--https://github-readme-stats.vercel.app/api?username=Maqammed&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight
 
 <!--<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Maqammed&amp;hide=python&amp;layout=compact&amp;show_icons=true&amp;theme=tokyonight">Static</a>
   
 
--🌱 I’m currently learning.. 
 
--📫 How to reach me: meherremlimehemmed.contact@gmail.com 
 <!--
 **Maqammed/Maqammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
