@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+I'm Məhəmməd! I am improving myself on projects related to web
+
+<img alt="Məhəmməd's Linkdein" src="https://www.linkedin.com/in/m%C9%99h%C9%99mm%C9%99d-m%C9%99h%C9%99rr%C9%99mli-73654a20b/" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
+
+https://www.linkedin.com/in/m%C9%99h%C9%99mm%C9%99d-m%C9%99h%C9%99rr%C9%99mli-73654a20b/
 
 <!--
 **Maqammed/Maqammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
