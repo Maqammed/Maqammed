@@ -19,6 +19,8 @@ I'm Məhəmməd! I am improving myself on projects related to web
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Maqammed&amp;hide=python&amp;layout=compact&amp;show_icons=true&amp;theme=tokyonight
 https://github-readme-stats.vercel.app/api?username=Maqammed&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight
+
+<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Maqammed&amp;hide=python&amp;layout=compact&amp;show_icons=true&amp;theme=tokyonight">Static</a>
   
 
 -🌱 I’m currently learning.. 
