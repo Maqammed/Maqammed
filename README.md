@@ -26,9 +26,9 @@ I'm Məhəmməd! I am improving myself on projects related to web
   </a> -->
   
 
-<h2 -🌱 I’m currently learning.. 
+<h2> -🌱 I’m currently learning.. 
 
--📫 How to reach me: meherremlimehemmed.contact@gmail.com /h2>
+-📫 How to reach me: meherremlimehemmed.contact@gmail.com </h2>
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=Maqammed&amp;hide=python&amp;layout=compact&amp;show_icons=true&amp;theme=tokyonight
 <!--https://github-readme-stats.vercel.app/api?username=Maqammed&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight
 
